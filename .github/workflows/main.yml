@@ -1,5 +1,5 @@
 
-name: Publish Docker images
+name: Publish Docker images in Dockerhub
 
 on:
   push:
